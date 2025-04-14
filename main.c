@@ -100,6 +100,7 @@ float multiplicacion(float a, float b){
 
 float division(float a, float b){
     float s = 0;
+    
     if (b != 0)
     {
         s = a / b;
